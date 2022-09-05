@@ -7,11 +7,11 @@ export const enableBlog = false; // requires VITE_CONTENTFUL_ACCESS_TOKEN and VI
 
 /*   STEP 2   */
 export const homepageText = `
-  <p>Welcome to season 2022. Our reigning champion Tim of the Southside Rangers has once again relied upon the faithful autodrafter. Correct me if I'm wrong but I believe his two victories have come off autodrafted seasons</p>
+  <p>Welcome to season 2022. Our reigning champion Tim of the Southside Rangers has once again relied upon the faithful autodrafter. Correct me if I'm wrong but I believe his two victories have come off autodrafted seasons?</p>
   <p>Looking at projections for week 1 it looks like the closest match-up is going to be between the Champs and the Toontown Ducks, with only 0.03 projected points seperating them.</p>
   <p>Based on the Rest of Season Power Ranking below (I don't actually know what they're based on, this is someone else's webpage format) Mitch might be in with a shout to make the playoffs this year!</p>
   <p>The 'topes, Shelbyville and the Collie Clan are currently tied for 2nd with Cam's first draft not impressing whatever is setting these ranks...</p>
-  <p>Good luck for the season everyone and here's hoping your RB1 doesn't suffer any major injuries (just a small one that takes them out for ~ a half when they're against me)</p>
+  <p>Good luck for the season everyone and here's hoping your RB1 doesn't suffer any major injuries (just a small one that takes them out for ~ a half when they're against me).</p>
 `;
 
 /*   STEP 3   */
