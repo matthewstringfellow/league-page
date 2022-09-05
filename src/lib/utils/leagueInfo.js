@@ -7,12 +7,11 @@ export const enableBlog = false; // requires VITE_CONTENTFUL_ACCESS_TOKEN and VI
 
 /*   STEP 2   */
 export const homepageText = `
-  <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
-  <p>Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
-  <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
-  <p>Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
-  <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
-  <p>Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+  <p>Welcome to season 2022. Our reigning champion Tim of the Southside Rangers has once again relied upon the faithful autodrafter. Correct me if I'm wrong but I believe his two victories have come off autodrafted seasons</p>
+  <p>Looking at projections for week 1 it looks like the closest match-up is going to be between the Champs and the Toontown Ducks, with only 0.03 projected points seperating them.</p>
+  <p>Based on the Rest of Season Power Ranking below (I don't actually know what they're based on, this is someone else's webpage format) Mitch might be in with a shout to make the playoffs this year!</p>
+  <p>The 'topes, Shelbyville and the Collie Clan are currently tied for 2nd with Cam's first draft not impressing whatever is setting these ranks...</p>
+  <p>Good luck for the season everyone and here's hoping your RB1 doesn't suffer any major injuries (just a small one that takes them out for ~ a half when they're against me)</p>
 `;
 
 /*   STEP 3   */
